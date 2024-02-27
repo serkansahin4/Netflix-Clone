@@ -1,0 +1,16 @@
+.categories{
+    display: flex;
+    align-items: center;
+    max-height: 100px;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    gap: 20px;
+}
+
+.category{
+    border-radius: 5%;
+    border:1px solid white;
+    background-color: black;
+    color:white;
+    padding: 10px 5px 10px 5px;
+}
